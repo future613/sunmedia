@@ -1,0 +1,42 @@
+.usersetting1{
+    width: 400px;
+    position: fixed;
+    top:20%;
+    left:45%;
+    transform: translateX(-150px);
+    border: 1px solid #ccc;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.usersetting1>h1{
+    text-align: center;
+    margin-bottom: 20px;
+    color: #1890ff;
+    font-size: 22px;
+}
+.usersetting1>div{
+    margin-bottom: 20px;
+}
+.usersetting1>div>span{
+    display: block;
+    width: 100px;
+    float: left;
+}
+.usersetting1>div>input{
+    display: block;
+    width: 200px;
+    float: left;
+    border: 1px solid gray;
+    border-radius: 3px;
+    
+}
+.usersetting1>div>button,.usersetting1>div>a>button{
+    margin-left: 60px;
+    width: 60px;
+    line-height: 30px;
+    background-color: #1890ff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}

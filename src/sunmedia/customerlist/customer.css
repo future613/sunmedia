@@ -1,0 +1,59 @@
+
+
+.customer{
+    width: 70%;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 20px 20px;
+    float: left;
+}
+.customer-list{
+    margin-top: 10px;
+}
+.customer>h2{
+    text-align: center;
+    font-size: 22px;
+    color: #1890ff;
+    margin-bottom: 20px;
+}
+.editor1{
+   border-bottom: 1px solid lightgray;
+   padding-bottom: 20px;
+   margin-bottom: 20px;   
+}
+.editor1>select{
+    margin-right: 30px;
+}
+.editor1>input{
+    border: 1px solid #666; 
+    width: 150px;
+     height: 26px; 
+     border-radius: 3px;
+}
+.editor1>button,.editor1>a>button{
+    background-color: #fff;
+    color: #1890ff;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    margin-right: 50px;
+}
+.editor1>button:nth-child(2){
+    margin-right: 200px;
+}
+.title1>input,.customer-list>input{
+    float: left;
+    margin-right: 10px;
+    margin-top: 6px;
+   
+}
+.title1>span,.customer-list>span{
+    float: left;
+    display: block;
+    width: 30%;
+}
+.title1>a,.customer-list>a{
+    float: left;
+    display: block;
+    width: 30%;
+}
