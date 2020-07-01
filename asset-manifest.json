@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/sunmedia/static/css/main.5d2ef262.chunk.css",
+    "main.js": "/sunmedia/static/js/main.ada77be6.chunk.js",
+    "main.js.map": "/sunmedia/static/js/main.ada77be6.chunk.js.map",
+    "runtime-main.js": "/sunmedia/static/js/runtime-main.b0ca235b.js",
+    "runtime-main.js.map": "/sunmedia/static/js/runtime-main.b0ca235b.js.map",
+    "static/css/2.d788185a.chunk.css": "/sunmedia/static/css/2.d788185a.chunk.css",
+    "static/js/2.961647b9.chunk.js": "/sunmedia/static/js/2.961647b9.chunk.js",
+    "static/js/2.961647b9.chunk.js.map": "/sunmedia/static/js/2.961647b9.chunk.js.map",
+    "index.html": "/sunmedia/index.html",
+    "precache-manifest.dc38b4ee521f29d205e621aa13167f80.js": "/sunmedia/precache-manifest.dc38b4ee521f29d205e621aa13167f80.js",
+    "service-worker.js": "/sunmedia/service-worker.js",
+    "static/css/2.d788185a.chunk.css.map": "/sunmedia/static/css/2.d788185a.chunk.css.map",
+    "static/css/main.5d2ef262.chunk.css.map": "/sunmedia/static/css/main.5d2ef262.chunk.css.map",
+    "static/js/2.961647b9.chunk.js.LICENSE.txt": "/sunmedia/static/js/2.961647b9.chunk.js.LICENSE.txt",
+    "static/media/img.png": "/sunmedia/static/media/img.64523657.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0ca235b.js",
+    "static/css/2.d788185a.chunk.css",
+    "static/js/2.961647b9.chunk.js",
+    "static/css/main.5d2ef262.chunk.css",
+    "static/js/main.ada77be6.chunk.js"
+  ]
+}
